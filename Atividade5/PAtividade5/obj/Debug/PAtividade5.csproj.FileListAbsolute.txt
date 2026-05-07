@@ -1,0 +1,27 @@
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.csproj.AssemblyReference.cache
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.Form1.resources
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.Properties.Resources.resources
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.csproj.GenerateResource.cache
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.csproj.CoreCompileInputs.cache
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\bin\Debug\PAtividade5.exe.config
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\bin\Debug\PAtividade5.exe
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\bin\Debug\PAtividade5.pdb
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.exe
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.pdb
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.exe.config
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.FrmExercicio1.resources
+C:\Users\0030482523036\Desktop\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.FrmExercicio2.resources
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\bin\Debug\PAtividade5.exe.config
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\bin\Debug\PAtividade5.exe
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\bin\Debug\PAtividade5.pdb
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.csproj.AssemblyReference.cache
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.Form1.resources
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.FrmExercicio1.resources
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.FrmExercicio2.resources
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.Properties.Resources.resources
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.csproj.GenerateResource.cache
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.csproj.CoreCompileInputs.cache
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.exe
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.pdb
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.FrmExercicio3.resources
+C:\Users\viito\OneDrive\Área de Trabalho\Atividade5\PAtividade5\PAtividade5\obj\Debug\PAtividade5.FrmExercicio4.resources
