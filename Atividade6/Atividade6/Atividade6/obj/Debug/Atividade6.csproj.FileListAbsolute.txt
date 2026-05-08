@@ -1,0 +1,12 @@
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\bin\Debug\Atividade6.exe.config
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\bin\Debug\Atividade6.exe
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\bin\Debug\Atividade6.pdb
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.AssemblyReference.cache
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\obj\Debug\Atividade6.Form1.resources
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\obj\Debug\Atividade6.Properties.Resources.resources
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.GenerateResource.cache
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.CoreCompileInputs.cache
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\obj\Debug\Atividade6.exe
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\obj\Debug\Atividade6.pdb
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\obj\Debug\Atividade6.frm_Exc2.resources
+C:\Users\viito\OneDrive\Área de Trabalho\Jogo da velha\Atividade6\Atividade6\obj\Debug\Atividade6.frm_Exc3.resources
