@@ -1,0 +1,11 @@
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\bin\Debug\AtividadeExtra.exe.config
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\bin\Debug\AtividadeExtra.exe
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\bin\Debug\AtividadeExtra.pdb
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\obj\Debug\AtividadeExtra.csproj.AssemblyReference.cache
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\obj\Debug\AtividadeExtra.Form1.resources
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\obj\Debug\AtividadeExtra.Properties.Resources.resources
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\obj\Debug\AtividadeExtra.csproj.GenerateResource.cache
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\obj\Debug\AtividadeExtra.csproj.CoreCompileInputs.cache
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\obj\Debug\AtividadeExtra.exe
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\obj\Debug\AtividadeExtra.pdb
+C:\Users\0030482523036\source\repos\AtividadeExtra\AtividadeExtra\obj\Debug\AtividadeExtra.exe.config
