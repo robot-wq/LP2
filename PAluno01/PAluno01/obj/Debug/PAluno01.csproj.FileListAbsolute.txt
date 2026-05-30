@@ -1,0 +1,11 @@
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\obj\Debug\PAluno01.csproj.AssemblyReference.cache
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\obj\Debug\PAluno01.Form1.resources
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\obj\Debug\PAluno01.Properties.Resources.resources
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\obj\Debug\PAluno01.csproj.GenerateResource.cache
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\obj\Debug\PAluno01.csproj.CoreCompileInputs.cache
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\bin\Debug\PAluno01.exe.config
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\bin\Debug\PAluno01.exe
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\bin\Debug\PAluno01.pdb
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\obj\Debug\PAluno01.exe
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\obj\Debug\PAluno01.pdb
+C:\Users\0030482523005\source\repos\PAluno01\PAluno01\obj\Debug\PAluno01.exe.config
