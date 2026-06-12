@@ -1,0 +1,11 @@
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\bin\Debug\Preava0030482523005.exe.config
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\bin\Debug\Preava0030482523005.exe
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\bin\Debug\Preava0030482523005.pdb
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\obj\Debug\Preava0030482523005.csproj.AssemblyReference.cache
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\obj\Debug\Preava0030482523005.Form1.resources
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\obj\Debug\Preava0030482523005.Properties.Resources.resources
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\obj\Debug\Preava0030482523005.csproj.GenerateResource.cache
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\obj\Debug\Preava0030482523005.csproj.CoreCompileInputs.cache
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\obj\Debug\Preava0030482523005.exe
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\obj\Debug\Preava0030482523005.pdb
+C:\Users\0030482523005\source\repos\Preava0030482523005\Preava0030482523005\obj\Debug\Preava0030482523005.exe.config
